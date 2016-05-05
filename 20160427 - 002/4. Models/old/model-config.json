@@ -1,0 +1,968 @@
+{
+    "address": {
+        "20160503_103135": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 100,
+            "type": "Neural-Network"
+        },
+        "20160503_103609": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 100,
+            "type": "Neural-Network"
+        },
+        "20160503_104042": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 100,
+            "type": "Neural-Network"
+        },
+        "20160503_104417": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 100,
+            "type": "Neural-Network"
+        },
+        "20160503_104813": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 100,
+            "type": "Neural-Network"
+        },
+        "20160503_111854": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 300,
+            "type": "Neural-Network"
+        },
+        "20160503_112629": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 300,
+            "type": "Neural-Network"
+        },
+        "20160503_113440": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 300,
+            "type": "Neural-Network"
+        },
+        "20160503_114422": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 300,
+            "type": "Neural-Network"
+        },
+        "20160503_115339": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 300,
+            "type": "Neural-Network"
+        },
+        "20160503_172405": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1000,
+            "type": "Neural-Network"
+        },
+        "20160503_175403": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1000,
+            "type": "Neural-Network"
+        },
+        "20160503_182738": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1000,
+            "type": "Neural-Network"
+        },
+        "20160503_185453": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1000,
+            "type": "Neural-Network"
+        },
+        "20160503_192124": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1000,
+            "type": "Neural-Network"
+        },
+        "20160503_195140": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 2000,
+            "type": "Neural-Network"
+        },
+        "20160503_204254": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 2000,
+            "type": "Neural-Network"
+        },
+        "20160503_215526": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 2000,
+            "type": "Neural-Network"
+        },
+        "20160503_223939": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 2000,
+            "type": "Neural-Network"
+        },
+        "20160503_235533": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 2000,
+            "type": "Neural-Network"
+        }
+    },
+    "name": {
+        "20160503_103135": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 100,
+            "type": "Neural-Network"
+        },
+        "20160503_103609": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 100,
+            "type": "Neural-Network"
+        },
+        "20160503_104042": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 100,
+            "type": "Neural-Network"
+        },
+        "20160503_104417": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 100,
+            "type": "Neural-Network"
+        },
+        "20160503_104813": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 100,
+            "type": "Neural-Network"
+        },
+        "20160503_111854": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 300,
+            "type": "Neural-Network"
+        },
+        "20160503_112629": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 300,
+            "type": "Neural-Network"
+        },
+        "20160503_113440": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 300,
+            "type": "Neural-Network"
+        },
+        "20160503_114422": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 300,
+            "type": "Neural-Network"
+        },
+        "20160503_115339": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 300,
+            "type": "Neural-Network"
+        },
+        "20160503_172405": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1000,
+            "type": "Neural-Network"
+        },
+        "20160503_175403": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1000,
+            "type": "Neural-Network"
+        },
+        "20160503_182738": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1000,
+            "type": "Neural-Network"
+        },
+        "20160503_185453": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1000,
+            "type": "Neural-Network"
+        },
+        "20160503_192124": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1000,
+            "type": "Neural-Network"
+        },
+        "20160503_195140": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 2000,
+            "type": "Neural-Network"
+        },
+        "20160503_204254": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 2000,
+            "type": "Neural-Network"
+        },
+        "20160503_215526": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 2000,
+            "type": "Neural-Network"
+        },
+        "20160503_223939": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 2000,
+            "type": "Neural-Network"
+        },
+        "20160503_235533": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 2000,
+            "type": "Neural-Network"
+        }
+    },
+    "phone": {
+        "20160503_103135": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 100,
+            "type": "Neural-Network"
+        },
+        "20160503_103609": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 100,
+            "type": "Neural-Network"
+        },
+        "20160503_104042": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 100,
+            "type": "Neural-Network"
+        },
+        "20160503_104417": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 100,
+            "type": "Neural-Network"
+        },
+        "20160503_104813": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 100,
+            "type": "Neural-Network"
+        },
+        "20160503_111854": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 300,
+            "type": "Neural-Network"
+        },
+        "20160503_112629": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 300,
+            "type": "Neural-Network"
+        },
+        "20160503_113440": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 300,
+            "type": "Neural-Network"
+        },
+        "20160503_114422": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 300,
+            "type": "Neural-Network"
+        },
+        "20160503_115339": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 300,
+            "type": "Neural-Network"
+        },
+        "20160503_172405": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1000,
+            "type": "Neural-Network"
+        },
+        "20160503_175403": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1000,
+            "type": "Neural-Network"
+        },
+        "20160503_182738": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1000,
+            "type": "Neural-Network"
+        },
+        "20160503_185453": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1000,
+            "type": "Neural-Network"
+        },
+        "20160503_192124": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 1000,
+            "type": "Neural-Network"
+        },
+        "20160503_195140": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 2000,
+            "type": "Neural-Network"
+        },
+        "20160503_204254": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 2000,
+            "type": "Neural-Network"
+        },
+        "20160503_215526": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 2000,
+            "type": "Neural-Network"
+        },
+        "20160503_223939": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 2000,
+            "type": "Neural-Network"
+        },
+        "20160503_235533": {
+            "layers": [
+                [
+                    10,
+                    "Sigmoid"
+                ],
+                [
+                    2,
+                    "Softmax"
+                ]
+            ],
+            "learning_rate": 0.01,
+            "learning_rule": "adagrad",
+            "n_iter": 2000,
+            "type": "Neural-Network"
+        }
+    }
+}
